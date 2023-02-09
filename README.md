@@ -1,6 +1,6 @@
 # sapin
 
 pour executé le code utiliser NodeJS avec la commande suivante :
-> node sapin.js >
+> node sapin.js
 ou
-> node.exe sapin.js >
+> node.exe sapin.js
